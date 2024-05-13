@@ -59,6 +59,7 @@
     <Compile Include="Assets\01 circle on ground\Test.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\04 PBR\cutoff.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\lambert.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\bliinphong.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\phong.shader" />
