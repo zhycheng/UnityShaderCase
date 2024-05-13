@@ -1,4 +1,4 @@
-Shader "Custom/case02/lambert"
+Shader "Custom/case03/lambert"
 {
     Properties
     {
