@@ -59,6 +59,8 @@
     <Compile Include="Assets\01 circle on ground\Test.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\02 lambert diffuse\standard.shader" />
+    <None Include="Assets\02 lambert diffuse\lambert.shader" />
     <None Include="Assets\01 circle on ground\circleshader.shader" />
   </ItemGroup>
   <ItemGroup>
