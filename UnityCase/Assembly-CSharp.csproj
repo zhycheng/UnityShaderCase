@@ -74,6 +74,7 @@
     <None Include="Assets\02 lambert diffuse\lambert.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\cartoon.shader" />
     <None Include="Assets\06 vert &amp; frag\GrabPass\grab.shader" />
+    <None Include="Assets\06 vert &amp; frag\WaterWave\water.shader" />
     <None Include="Assets\01 circle on ground\circleshader.shader" />
   </ItemGroup>
   <ItemGroup>
