@@ -70,6 +70,7 @@
     <None Include="Assets\05 vertex\normalpush.shader" />
     <None Include="Assets\05 vertex\wave.shader" />
     <None Include="Assets\02 lambert diffuse\standard.shader" />
+    <None Include="Assets\06 vert &amp; frag\Grass\Glass.shader" />
     <None Include="Assets\02 lambert diffuse\lambert.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\cartoon.shader" />
     <None Include="Assets\06 vert &amp; frag\GrabPass\grab.shader" />
