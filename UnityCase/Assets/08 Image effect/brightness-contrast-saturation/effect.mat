@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: depthmat
-  m_Shader: {fileID: 4800000, guid: 3140b3f3b6dfbff40ac1081d26fe700d, type: 3}
+  m_Name: effect
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -60,7 +60,6 @@ Material:
     m_Floats:
     - _BumpScale: 1
     - _Cutoff: 0.5
-    - _DepthPower: 0.14
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _GlossMapScale: 1

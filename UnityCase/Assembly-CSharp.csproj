@@ -72,6 +72,7 @@
     <None Include="Assets\03 cartoon shader phong bulinn-phong\standard.shader" />
     <None Include="Assets\05 vertex\normalpush.shader" />
     <None Include="Assets\05 vertex\wave.shader" />
+    <None Include="Assets\08 Image effect\brightness-contrast-saturation\effect.shader" />
     <None Include="Assets\08 Image effect\Gray\gray.shader" />
     <None Include="Assets\02 lambert diffuse\standard.shader" />
     <None Include="Assets\06 vert &amp; frag\Grass\Glass.shader" />
