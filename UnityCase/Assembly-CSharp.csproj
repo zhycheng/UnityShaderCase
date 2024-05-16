@@ -57,8 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\08 Image effect\PostEffectGray.cs" />
-    <Compile Include="Assets\01 circle on ground\Test.cs" />
     <Compile Include="Assets\08 Image effect\DepthTexture\PostEffectGray1.cs" />
+    <Compile Include="Assets\08 Image effect\GaussianBlur\PostEffectBlur.cs" />
+    <Compile Include="Assets\01 circle on ground\Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\04 PBR\cutoff.shader" />
@@ -68,6 +69,7 @@
     <None Include="Assets\03 cartoon shader phong bulinn-phong\bliinphong.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\phong.shader" />
     <None Include="Assets\05 vertex\explosion\explosion.shader" />
+    <None Include="Assets\08 Image effect\GaussianBlur\GaussianBlur.shader" />
     <None Include="Assets\05 vertex\vertex.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\standard.shader" />
     <None Include="Assets\05 vertex\normalpush.shader" />

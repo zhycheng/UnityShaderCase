@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: effect
-  m_Shader: {fileID: 4800000, guid: fa0b9a645647a4a48a3c97ed82b66d3c, type: 3}
+  m_Name: GaussianBlurMat
+  m_Shader: {fileID: 4800000, guid: 17168094a9a994049a7bc559a3b66da9, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -58,9 +58,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _BrightnessAmount: 1
+    - _BlurSize: 6.03
     - _BumpScale: 1
-    - _ContrastAmount: 0.878
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -71,7 +70,6 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
-    - _SaturationAmount: 0.593
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
