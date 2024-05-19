@@ -61,6 +61,7 @@
     <Compile Include="Assets\08 Image effect\Bloom\PostEffectBloom.cs" />
     <Compile Include="Assets\08 Image effect\GaussianBlur\PostEffectBlur.cs" />
     <Compile Include="Assets\01 circle on ground\Test.cs" />
+    <Compile Include="Assets\10 3DPaint\PaintTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\09 Cartoon\Outline\Outline.shader" />
@@ -73,8 +74,11 @@
     <None Include="Assets\03 cartoon shader phong bulinn-phong\phong.shader" />
     <None Include="Assets\05 vertex\explosion\explosion.shader" />
     <None Include="Assets\08 Image effect\GaussianBlur\GaussianBlur.shader" />
+    <None Include="Assets\10 3DPaint\FirstLayer.shader" />
     <None Include="Assets\05 vertex\vertex.shader" />
+    <None Include="Assets\Temp\NewUnlitShader.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\standard.shader" />
+    <None Include="Assets\10 3DPaint\monster\RealMaterialToonColor.shader" />
     <None Include="Assets\09 Cartoon\Cartoon\Cartoon.shader" />
     <None Include="Assets\08 Image effect\Bloom\Bloom.shader" />
     <None Include="Assets\05 vertex\normalpush.shader" />
@@ -85,6 +89,7 @@
     <None Include="Assets\06 vert &amp; frag\Grass\Glass.shader" />
     <None Include="Assets\02 lambert diffuse\lambert.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\cartoon.shader" />
+    <None Include="Assets\10 3DPaint\SecondLayer.shader" />
     <None Include="Assets\06 vert &amp; frag\GrabPass\grab.shader" />
     <None Include="Assets\06 vert &amp; frag\WaterWave\water.shader" />
     <None Include="Assets\01 circle on ground\circleshader.shader" />
