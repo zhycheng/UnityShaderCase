@@ -1,4 +1,4 @@
-Shader "Custom/10/SecondLayer"
+Shader "Custom/case10/SecondLayer"
 {
     Properties
     {

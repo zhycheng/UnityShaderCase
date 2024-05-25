@@ -1,4 +1,4 @@
-Shader "Custom/11/MergeAlpha"
+Shader "Custom/case11/MergeAlpha"
 {
     Properties
     {
