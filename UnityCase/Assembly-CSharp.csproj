@@ -79,6 +79,7 @@
     <None Include="Assets\05 vertex\vertex.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\standard.shader" />
     <None Include="Assets\10 3DPaint\monster\RealMaterialToonColor.shader" />
+    <None Include="Assets\12 ASE\03Mask\Mask.shader" />
     <None Include="Assets\09 Cartoon\Cartoon\Cartoon.shader" />
     <None Include="Assets\08 Image effect\Bloom\Bloom.shader" />
     <None Include="Assets\05 vertex\normalpush.shader" />

@@ -45,7 +45,7 @@ Shader "Custom/case12/SimpleWood"
 }
 /*ASEBEGIN
 Version=18935
-721;73;1198;936;446.8792;557.6967;1.670234;True;True
+1027;73;892;936;191.3334;557.6967;1.670234;False;False
 Node;AmplifyShaderEditor.SamplerNode;1;201.8854,-232.757;Inherit;True;Property;_TextureSample0;Texture Sample 0;0;0;Create;True;0;0;0;False;0;False;-1;None;7130c16fd8005b546b111d341310a9a4;True;0;False;white;Auto;False;Object;-1;Auto;Texture2D;8;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;6;FLOAT;0;False;7;SAMPLERSTATE;;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.RangedFloatNode;5;288.9654,13.82341;Inherit;False;Property;_brightness;brightness;2;0;Create;True;0;0;0;False;0;False;0.5;0.948294;0;1;0;1;FLOAT;0
 Node;AmplifyShaderEditor.SamplerNode;2;185.6124,177.0925;Inherit;True;Property;_TextureSample1;Texture Sample 1;1;0;Create;True;0;0;0;False;0;False;-1;None;11f03d9db1a617e40b7ece71f0a84f6f;True;0;True;bump;Auto;True;Object;-1;Auto;Texture2D;8;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;6;FLOAT;0;False;7;SAMPLERSTATE;;False;5;FLOAT3;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
@@ -56,4 +56,4 @@ WireConnection;4;1;5;0
 WireConnection;0;0;4;0
 WireConnection;0;1;2;0
 ASEEND*/
-//CHKSM=07BE346C2C75DA7BEFDD7F7F22E436F597998331
+//CHKSM=75E12B0165F9F0C92164C9E6608F0C0B760D507D

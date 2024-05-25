@@ -56,18 +56,18 @@
     <Analyzer Include="C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community ForceShield\ForceShieldDestroyBall.cs" />
-    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\SimpleGPUInstancing\SimpleGPUInstancingExample.cs" />
-    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\PlaneClip\PlaneClip.cs" />
+    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community HighlightAnimated\highlightAnimated.cs" />
+    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Smear\Smear.cs" />
     <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community Volumetric Pixelization\VolumetricSphere.cs" />
+    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\TemplateExamples\Sprites\SpriteMask\SpriteMaskController.cs" />
+    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\PlaneClip\PlaneClip.cs" />
+    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\SimpleGPUInstancing\SimpleGPUInstancingExample.cs" />
     <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community ForceShield\ForceShieldImpactDetection.cs" />
     <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community Volumetric Pixelization\Pixelize.cs" />
     <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\TemplateExamples\PostProcess\Sobel\PostProcessExample.cs" />
     <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community ForceShield\ForceShieldShootBall.cs" />
     <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Smear\SimpleMoveExample.cs" />
-    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community HighlightAnimated\highlightAnimated.cs" />
-    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Smear\Smear.cs" />
-    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\TemplateExamples\Sprites\SpriteMask\SpriteMaskController.cs" />
+    <Compile Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\Community ForceShield\ForceShieldDestroyBall.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Plugins\AmplifyShaderEditor\Examples\Built-In\MultiPassDistortion\DoublePassUnlitTemplate.shader" />
