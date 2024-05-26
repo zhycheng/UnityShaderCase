@@ -138,7 +138,7 @@ Shader "Custom/case12/05/EdgeDissolve"
 }
 /*ASEBEGIN
 Version=18935
-320;73;1599;511;369.5935;167.6948;1.855296;True;False
+331;73;1194;595;369.5935;167.6948;1.855296;True;False
 Node;AmplifyShaderEditor.SamplerNode;2;-460,199.5;Inherit;True;Property;_NoiseTex;NoiseTex;1;0;Create;True;0;0;0;False;0;False;-1;fa6d1f002c49b44b4bbfcd4231c1d20e;fa6d1f002c49b44b4bbfcd4231c1d20e;True;0;False;white;Auto;False;Object;-1;Auto;Texture2D;8;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;6;FLOAT;0;False;7;SAMPLERSTATE;;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.RangedFloatNode;6;-370.7587,472.6219;Inherit;False;Property;_Float0;Float 0;3;0;Create;True;0;0;0;False;0;False;0.02;0.16;0;1;0;1;FLOAT;0
 Node;AmplifyShaderEditor.RangedFloatNode;3;-254,70.5;Inherit;False;Property;_dissolve;dissolve;2;0;Create;True;0;0;0;False;0;False;0.3238662;0.84;0;1;0;1;FLOAT;0
@@ -175,4 +175,4 @@ WireConnection;13;0;12;0
 WireConnection;13;3;14;0
 WireConnection;0;0;13;0
 ASEEND*/
-//CHKSM=F43A4F7580EC761B906B5450C7A23AC76A9E8027
+//CHKSM=C3ADD5AAB0496D8E6B260082C8F090CAC054F665

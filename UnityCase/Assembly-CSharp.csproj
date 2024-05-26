@@ -100,6 +100,7 @@
     <None Include="Assets\06 vert &amp; frag\GrabPass\grab.shader" />
     <None Include="Assets\06 vert &amp; frag\WaterWave\water.shader" />
     <None Include="Assets\01 circle on ground\circleshader.shader" />
+    <None Include="Assets\12 ASE\07边缘泛光\EdgeBloom.shader" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
