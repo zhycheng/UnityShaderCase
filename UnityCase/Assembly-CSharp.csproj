@@ -68,6 +68,7 @@
     <None Include="Assets\09 Cartoon\Outline\Outline.shader" />
     <None Include="Assets\04 PBR\cutoff.shader" />
     <None Include="Assets\08 Image effect\DepthTexture\depth.shader" />
+    <None Include="Assets\12 ASE\08塞尔达扰动火焰\Flame.shader" />
     <None Include="Assets\05 vertex\snowbunny\snow.shader" />
     <None Include="Assets\09 Cartoon\Outline\OutlineNormal.shader" />
     <None Include="Assets\12 ASE\04Dissolve硬边溶解\DissolvePic.shader" />
