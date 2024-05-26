@@ -71,6 +71,7 @@
     <None Include="Assets\05 vertex\snowbunny\snow.shader" />
     <None Include="Assets\09 Cartoon\Outline\OutlineNormal.shader" />
     <None Include="Assets\12 ASE\04Dissolve硬边溶解\DissolvePic.shader" />
+    <None Include="Assets\12 ASE\06 uv扰动\disturb.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\lambert.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\bliinphong.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\phong.shader" />
