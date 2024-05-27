@@ -66,6 +66,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\09 Cartoon\Outline\Outline.shader" />
+    <None Include="Assets\12 ASE\10 软粒子与顶点颜色\SoftParticle.shader" />
     <None Include="Assets\04 PBR\cutoff.shader" />
     <None Include="Assets\08 Image effect\DepthTexture\depth.shader" />
     <None Include="Assets\12 ASE\08塞尔达扰动火焰\Flame.shader" />
