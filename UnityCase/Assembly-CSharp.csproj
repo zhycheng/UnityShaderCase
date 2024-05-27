@@ -75,6 +75,7 @@
     <None Include="Assets\12 ASE\06 uv扰动\disturb.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\lambert.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\bliinphong.shader" />
+    <None Include="Assets\12 ASE\09 DepthFade\DepthFade.shader" />
     <None Include="Assets\03 cartoon shader phong bulinn-phong\phong.shader" />
     <None Include="Assets\05 vertex\explosion\explosion.shader" />
     <None Include="Assets\08 Image effect\GaussianBlur\GaussianBlur.shader" />
